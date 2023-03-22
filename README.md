@@ -1,4 +1,4 @@
-# AWS Lambda Terraform module - OrigRepo
+# AWS Lambda Terraform module - Forked Github Repo
 
 Terraform module, which creates almost all supported AWS Lambda resources as well as taking care of building and packaging of required Lambda dependencies for functions and layers.
 
